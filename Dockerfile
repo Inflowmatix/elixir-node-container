@@ -1,6 +1,6 @@
 FROM inflowsys/elixir-container:latest
 
-ENV NODE_VERSION=6.10.3 \
+ENV NODE_VERSION=6.11.2 \
     LANG=C.UTF-8 \
     NPM_CONFIG_LOGLEVEL=info
 
