@@ -1,4 +1,4 @@
-FROM inflowsys/elixir-container:latest
+FROM inflowsys/elixir-container:1.6.4-otp20
 
 ENV NODE_VERSION=6.11.2 \
     LANG=C.UTF-8 \
